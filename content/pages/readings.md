@@ -40,7 +40,7 @@ _The first two chapters explain our experimentalist perspective on applied econo
 
 Dale, S., and A. Krueger. "[Estimating the Payoff to Attending a More Selective College: An Application of Selection on Observables and Unobservables](http://dx.doi.org/10.1162/003355302320935089)." _The Quaterly Journal of Economics_ 117, no. 4 (2002): 1491–527.
 
-———. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Estimating the Return to College Selectivity Over the Career using Administrative Earnings Data." (PDF)](http://dx.doi.org/10.3386/w17159) _The Journal of Human Resources_, 2014. (NBER Working Paper no. 17159)
+———. ["Estimating the Return to College Selectivity Over the Career using Administrative Earnings Data." (PDF)](http://dx.doi.org/10.3386/w17159) _The Journal of Human Resources_, 2014. (NBER Working Paper no. 17159)
 
 
 {{< tdclose >}}
@@ -89,7 +89,7 @@ Angrist, J., and J. Hahn. "[When to Control for Covariates? Panel Asymptotics fo
 
 Hirano, K., G. Imbens, et al. "[Efficient Estimation of Average Treatment Effects Using the Estimated Propensity Score](http://dx.doi.org/10.1111/1468-0262.00442)." _Econometrica_ 71, no. 4 (2003): 1161–89.
 
-Abadie, A., and G. Imbens. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Matching on the Estimated Propensity Score." (PDF)](http://dx.doi.org/10.3386/w15301) Mimeo, NBER Working Paper no. 15301, 2012.
+Abadie, A., and G. Imbens. ["Matching on the Estimated Propensity Score." (PDF)](http://dx.doi.org/10.3386/w15301) Mimeo, NBER Working Paper no. 15301, 2012.
 
 
 {{< tdclose >}}
@@ -122,7 +122,7 @@ Angrist., J. "[Grouped Data Estimation and Testing in Simple Labor Supply Models
 
 \[MHE\] Section 4.3.
 
-Angrist, J., and A. Krueger. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Effect of Age at School Entry on Educational Attainment: An Application of Instrumental Variables with Moments from Two Samples." (PDF)](http://dx.doi.org/10.3386/w3571) _Journal of the American Statistical Association_ 57, no. 412 (1992): 11.
+Angrist, J., and A. Krueger. ["The Effect of Age at School Entry on Educational Attainment: An Application of Instrumental Variables with Moments from Two Samples." (PDF)](http://dx.doi.org/10.3386/w3571) _Journal of the American Statistical Association_ 57, no. 412 (1992): 11.
 
 ———. "[Split-sample Instrumental Variables Estimates of the Returns to Schooling](http://dx.doi.org/10.1080/07350015.1995.10524597)." _Journal of Business and Economic Statistics_ 13, no. 2 (1995): 225–35.
 
@@ -138,7 +138,7 @@ Angrist, J., G. Imbens, et al. "[Jackknife Instrumental Variables Estimation](ht
 
 Flores-lagunes, Alfonso. "[Finite-sample Evidence of IV Estimators under Weak Instruments](http://dx.doi.org/10.1002/jae.916)." _Journal of Applied Econometrics_ 22, no. 3 (2007): 677–94.
 
-Kolesar, M. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Estimation in an Instrumental Variables Model with Treatment Effect Heterogeneity." (PDF)](https://www.researchgate.net/publication/274036470_Estimation_in_an_instrumental_variables_model_with_treatment_effect_heterogeneity) Princeton Department of Economics, Mimeo, 2013.
+Kolesar, M. ["Estimation in an Instrumental Variables Model with Treatment Effect Heterogeneity." (PDF)](https://www.researchgate.net/publication/274036470_Estimation_in_an_instrumental_variables_model_with_treatment_effect_heterogeneity) Princeton Department of Economics, Mimeo, 2013.
 
 
 {{< tdclose >}}
@@ -165,7 +165,7 @@ Imbens, G., and J. Angrist. "[Identification and Estimation of Local Average Tre
 
 Angrist, J., G. Imbens, et al. "[Identification of Causal Effects Using Instrumental Variables](http://dx.doi.org/10.1080/01621459.1996.10476902)." _Journal of the American Statistical Association_ 91, no. 434 _(_1996): 444–55.
 
-Abadie, A. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Bootstrap Tests for Distributional Treatment Effects in Instrumental Variables Models." (PDF)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.337.3129&rep=rep1&type=pdf) _Journal of the American Statistical Association_ 97, no. 457 (2002): 284–92.
+Abadie, A. ["Bootstrap Tests for Distributional Treatment Effects in Instrumental Variables Models." (PDF)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.337.3129&rep=rep1&type=pdf) _Journal of the American Statistical Association_ 97, no. 457 (2002): 284–92.
 
 ———. "[Semiparametric Instrumental Variable Estimation of Treatment Response Models](http://www.sciencedirect.com/science/article/pii/S0304407602002014)." _Journal of Econometrics_ 113, no. 2 (2003): 231–63.
 
@@ -173,9 +173,9 @@ Abadie, A., J. Angrist, et al. "[Instrumental Variables Estimates of the Effect 
 
 Angrist, J. "[Instrumental Variables Methods in Experimental Criminological Research: What, Why, and How](http://dx.doi.org/10.1007/s11292-005-5126-x)." _Journal of Experimental Criminological_ 2, no. 1 (2005): 23–44.
 
-Angrist, J., S. Cohodes, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Stand and Deliver: Effects of Boston's Charter High Schools on College Preparation, Entry, and Choice." (PDF)](http://www.nber.org/papers/w19275.pdf) _The Journal of Labor Economics_, 2015. (NBER Working Paper no. 19275) \[Forthcoming\]
+Angrist, J., S. Cohodes, et al. ["Stand and Deliver: Effects of Boston's Charter High Schools on College Preparation, Entry, and Choice." (PDF)](http://www.nber.org/papers/w19275.pdf) _The Journal of Labor Economics_, 2015. (NBER Working Paper no. 19275) \[Forthcoming\]
 
-Behaghel, L., B. Crepon, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Robustness of the Encouragement Design in a Two-treatment Randomized Control Trial." (PDF)](http://ftp.iza.org/dp7447.pdf) IZA DP No. 7447, 2013.
+Behaghel, L., B. Crepon, et al. ["Robustness of the Encouragement Design in a Two-treatment Randomized Control Trial." (PDF)](http://ftp.iza.org/dp7447.pdf) IZA DP No. 7447, 2013.
 
 ### Models with Variable and Continuous Treatment Intensity
 
@@ -216,19 +216,19 @@ Angrist, J., and I. Fernandez-val. "ExtrapoLATE-ing: External Validity and Overi
 
 Imbens, G., and D. Rubin. "[Estimating Outcome Distributions for Compliers in Instrumental Variable Models](http://www.jstor.org/stable/2971731)." _The Review of Economic Studies_ 64, no. 4 (1997): 555–74.
 
-Kitagawa, T. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["A Test for Instrument Validity." (PDF)](http://dx.doi.org/10.1920/wp.cem.2014.3414) UCL, Working Papers CWP34 / 14, 2014.
+Kitagawa, T. ["A Test for Instrument Validity." (PDF)](http://dx.doi.org/10.1920/wp.cem.2014.3414) UCL, Working Papers CWP34 / 14, 2014.
 
 Huber, M. "[Testing the Validity of the Sibling Sex Ratio Instrument](http://dx.doi.org/10.1111/labr.12045)." University of St. Gallen Department of Economics, Working Paper, 2013.
 
-Chaisemartin, Clement de. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["All you Need is LATE." (PDF)](http://www.parisschoolofeconomics.eu/IMG/pdf/jobmarket-1paper-dechaisemartin-pse.pdf) University of Warwick, Mimeo, 2012.
+Chaisemartin, Clement de. ["All you Need is LATE." (PDF)](http://www.parisschoolofeconomics.eu/IMG/pdf/jobmarket-1paper-dechaisemartin-pse.pdf) University of Warwick, Mimeo, 2012.
 
-Evdokimov, Kirill, and David Lee. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Diagnostics for Exclusion Restrictions in Instrumental Variables Estimation." (PDF)](https://editorialexpress.com/cgi-bin/conference/download.cgi?db_name=NAWM2014&paper_id=513) Princeton Department of Economics, Mimeo, 2014.
+Evdokimov, Kirill, and David Lee. ["Diagnostics for Exclusion Restrictions in Instrumental Variables Estimation." (PDF)](https://editorialexpress.com/cgi-bin/conference/download.cgi?db_name=NAWM2014&paper_id=513) Princeton Department of Economics, Mimeo, 2014.
 
 ### Peer Effects
 
 \[MHE\] Section 4.6.2.
 
-Angrist, J. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Perils of Peer Effects." (PDF)](http://dx.doi.org/10.3386/w19774) NBER Working Paper no. 19774, 2013.
+Angrist, J. ["The Perils of Peer Effects." (PDF)](http://dx.doi.org/10.3386/w19774) NBER Working Paper no. 19774, 2013.
 
 Sacerdote, B. "[Peer Effects with Random Assignment: Results for Dartmouth Roommates](http://dx.doi.org/10.1162/00335530151144131)." _The Quarterly Journal of Economics_ 116, no. 2 (2001): 681–704.
 
@@ -265,7 +265,7 @@ Abadie, A. "[Semiparametric Differences-in-Differences Estimators](http://dx.doi
 
 Athey, S., and G. Imbens. "[Identification and Inference in Nonlinear Difference-in-Difference Models](http://dx.doi.org/10.1111/j.1468-0262.2006.00668.x)." _Econometrica_ 74, no. 2 (2006): 431–97.
 
-Chaisemartin, C. de, and X. D'Haultfoeuille. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Fuzzy Changes in Changes." (PDF)](http://www.parisschoolofeconomics.eu/IMG/pdf/jobmarket-2paper-dechaisemartin-pse.pdf) The Paris School of Economics, Mimeo, 2012.
+Chaisemartin, C. de, and X. D'Haultfoeuille. ["Fuzzy Changes in Changes." (PDF)](http://www.parisschoolofeconomics.eu/IMG/pdf/jobmarket-2paper-dechaisemartin-pse.pdf) The Paris School of Economics, Mimeo, 2012.
 
 
 {{< tdclose >}}
@@ -293,21 +293,21 @@ Lee, D. "[Randomized Experiments from Non-random Selection in U.S. House Electio
 
 Angrist, J., and V. Lavy. "[Using Maimonides Rule to Estimate the Effect of Class Size on Scholastic Achievement](http://dx.doi.org/10.1162/003355399556061)." _The Quarterly Journal of Economics_ 114, no. 2 (1999): 533–75.
 
-Porter, J. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Estimation in the Regression Discontinuity Model." (PDF)](http://econ.ucsb.edu/~doug/245a/Papers/Estimation%20in%20RD%20Model.pdf) University of Wisconsin Department of Economics, Mimeo, 2003.
+Porter, J. ["Estimation in the Regression Discontinuity Model." (PDF)](http://econ.ucsb.edu/~doug/245a/Papers/Estimation%20in%20RD%20Model.pdf) University of Wisconsin Department of Economics, Mimeo, 2003.
 
 Abdulkadiroglu, A., J. Angrist, et al. "[The Elite Illusion: Achievement Effects at Boston and New York Exam Schools](http://dx.doi.org/10.3982/ECTA10266)." _Econometrica_ 82, no. 1 (2014): 137–96.
 
 ### Regression Kinks
 
-Card, D., D. Lee, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Nonlinear Policy Rules and the Identification and Estimation of Causal Effects in a Generalized Regression Kink Design." (PDF)](http://dx.doi.org/10.3386/w18564) NBER Working Paper no. 18564, 2012.
+Card, D., D. Lee, et al. ["Nonlinear Policy Rules and the Identification and Estimation of Causal Effects in a Generalized Regression Kink Design." (PDF)](http://dx.doi.org/10.3386/w18564) NBER Working Paper no. 18564, 2012.
 
 ### Extrapolation
 
 Angrist, J., and M. Rokkanen. "[Wanna Get Away? RD Identification Away from the Cutoff](http://www.nber.org/papers/w18662)." NBER Working Paper no. 18662, 2012.
 
-Dong, Y., and A. Lewbel. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Identifying the Effect of Changing Policy Thresholds in Regression Discontinuity Models." (PDF)](https://watermark.silverchair.com/rest_a_00510.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAogwggKEBgkqhkiG9w0BBwagggJ1MIICcQIBADCCAmoGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMRKslHzuk49RZXM_EAgEQgIICO0nKq5KaaiLilHc9VOazQO6HAfdF6PPJb5M3kauY86FD9I1uue0zNZRsTcJ3H7nRBO2umghLBPmKO2OOtLfXF_rhxYNyu8AUuve6VVqDojjtE0XVo7cmmQmS9J_1BjTNtjVVGpBPhtyjMx49abpL0qcIJUUylRdKTOHyL5U_yCmOLG9dxfzzPttp3TD_rEg8NJFw9evMSvmVICUkE5LktbF_dKx3jAWQJR-yXD3ImM1fqi8fKK9Dwyji0sMi06vI1ZQnCXsCJlDHmg1B_c38FPTTDtn6wjtQiDeDb9sXPGZC0KXnvsHM3fOfzJjkwWZ4Gqz8CJVFR69uBPqce7CdhanMRACZQqzkgvbnDRa2bvXbeIMAfCA7TW5LBxVDaxFpLjQrt9OVcZn9_hGUHDEaGDvPFQv_a4szW2kIPzVKTyiTXuCNz8zJTUaIfzCoPR7nvlWHxUEzKgy6BIeF7hIx_8UZqhWiUcLd86dF9445V_Oy2EeP6VND_onxlz605mz4H_TSKkuxHC5DxYQ_lPPZQZTFR3cP0-Zw_jBJIy5y_zQ93_trd8_nLUHHKdWM-Z3zTkWSogg1QT--cnMmv8rhGwAQqmMnsSiWDU3_tnz0XrWb3Zw7ZSlWK45SipNndHcyWYOG8GHpO_tv_D61ajsEOtXcSLRYHjhuC2aGXJL7oGLCQ0Zi4McyZNMikeKyiMyAV88UIj8IQbkt6_9T5x0D4RHxVDT_D5CuLnakoA3A3llHXr16GoAkX9PQyjU) Boston College Department of Economics, Mimeo, 2014. (Revised)
+Dong, Y., and A. Lewbel. ["Identifying the Effect of Changing Policy Thresholds in Regression Discontinuity Models." (PDF)](https://watermark.silverchair.com/rest_a_00510.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAogwggKEBgkqhkiG9w0BBwagggJ1MIICcQIBADCCAmoGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMRKslHzuk49RZXM_EAgEQgIICO0nKq5KaaiLilHc9VOazQO6HAfdF6PPJb5M3kauY86FD9I1uue0zNZRsTcJ3H7nRBO2umghLBPmKO2OOtLfXF_rhxYNyu8AUuve6VVqDojjtE0XVo7cmmQmS9J_1BjTNtjVVGpBPhtyjMx49abpL0qcIJUUylRdKTOHyL5U_yCmOLG9dxfzzPttp3TD_rEg8NJFw9evMSvmVICUkE5LktbF_dKx3jAWQJR-yXD3ImM1fqi8fKK9Dwyji0sMi06vI1ZQnCXsCJlDHmg1B_c38FPTTDtn6wjtQiDeDb9sXPGZC0KXnvsHM3fOfzJjkwWZ4Gqz8CJVFR69uBPqce7CdhanMRACZQqzkgvbnDRa2bvXbeIMAfCA7TW5LBxVDaxFpLjQrt9OVcZn9_hGUHDEaGDvPFQv_a4szW2kIPzVKTyiTXuCNz8zJTUaIfzCoPR7nvlWHxUEzKgy6BIeF7hIx_8UZqhWiUcLd86dF9445V_Oy2EeP6VND_onxlz605mz4H_TSKkuxHC5DxYQ_lPPZQZTFR3cP0-Zw_jBJIy5y_zQ93_trd8_nLUHHKdWM-Z3zTkWSogg1QT--cnMmv8rhGwAQqmMnsSiWDU3_tnz0XrWb3Zw7ZSlWK45SipNndHcyWYOG8GHpO_tv_D61ajsEOtXcSLRYHjhuC2aGXJL7oGLCQ0Zi4McyZNMikeKyiMyAV88UIj8IQbkt6_9T5x0D4RHxVDT_D5CuLnakoA3A3llHXr16GoAkX9PQyjU) Boston College Department of Economics, Mimeo, 2014. (Revised)
 
-Rokkanen, M. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Exam Schools, Ability, and the Effects of Affirmative Action: Latent Factor Extrapolation in the Regression Discontinuity Design." (PDF - 1.2MB)](http://economics.mit.edu/files/9292) MIT Department of Economics, Mimeo, 2013.
+Rokkanen, M. ["Exam Schools, Ability, and the Effects of Affirmative Action: Latent Factor Extrapolation in the Regression Discontinuity Design." (PDF - 1.2MB)](http://economics.mit.edu/files/9292) MIT Department of Economics, Mimeo, 2013.
 
 Wing, C., T. Cook, et al. "[Strengthening the Regression Discontinuity Design Using Additional Design Elements: A Within-study Comparison](http://dx.doi.org/10.1002/pam.21721)." _Journal of Policy Analysis and Management_ 32, no. 4 (2013): 853–77.
 
@@ -317,7 +317,7 @@ Ludwig, J., and D. Miller. "[Does Head Start Improve Children's Life Chances? Ev
 
 Frandsen, B., M. Frölich, et al. "[Quantile Treatment Effects in the Regression Discontinuity Design](http://www.sciencedirect.com/science/article/pii/S0304407612000607)." _Journal of Econometrics_ 168, no. 2 (2012): 382–95.
 
-Imbens, G., and K. Kalyanaraman. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Optimal Bandwidth Choice for the Regression Discontinuity Estimator." (PDF)](http://dx.doi.org/10.3386/w14726) _Review of Economic Studies_ 79, no. 3 (2012): 933–59.
+Imbens, G., and K. Kalyanaraman. ["Optimal Bandwidth Choice for the Regression Discontinuity Estimator." (PDF)](http://dx.doi.org/10.3386/w14726) _Review of Economic Studies_ 79, no. 3 (2012): 933–59.
 
 Calonico, S., M. Cattaneo, et al. "[Robust Nonparametric Confidence Intervals for Regression Discontinuity Designs](http://dx.doi.org/10.3982/ECTA11757)." _Econometrica_ 82, no. 6 (2014): 2295–326. 
 
@@ -327,7 +327,7 @@ Almond, D., J. Doyle, et al. "[Estimating the Marginal Returns to Medical Care: 
 
 Barreca, A., M. Guildi, et al. "[Saving Babies? Revisiting the Effect of Very Low Birthweight Classification](http://dx.doi.org/10.1093/qje/qjr042)." _The Quarterly Journal of Economics_ 126, no. 4 (2011): 2117–23.
 
-Almond, Douglas, Joseph J. Doyle, Jr., Amanda E. Kowalski, et. al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Reply to Barreca, et al." (PDF)](https://academic.oup.com/qje/article/126/4/2125/1923148) _The Quarterly Journal of Economics_ 126, no. 4 (2011).
+Almond, Douglas, Joseph J. Doyle, Jr., Amanda E. Kowalski, et. al. ["Reply to Barreca, et al." (PDF)](https://academic.oup.com/qje/article/126/4/2125/1923148) _The Quarterly Journal of Economics_ 126, no. 4 (2011).
 
 Dong, Y. "[Regression Discontinuity Applications with Rounding Errors in the Running Variable](http://dx.doi.org/10.1002/jae.2369)." _Journal of Applied Econometrics_, 30, no. 3 (2015).
 
@@ -364,7 +364,7 @@ Hansen, C. "[Asymptotic Properties of a Robust Variance Estimator for Panel Data
 
 Cameron, C., J. Gelbach, et al. "[Bootstrap-based Improvements for Inference with Clustered Errors](http://dx.doi.org/10.1162/rest.90.3.414)." _The Review of Economics and Statistics_ 90, no. 3 (2008): 414–27.
 
-Imbens, G., and M. Kolesar. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Robust Standard Errors in Small Samples: Some Practical Advice." (PDF)](http://dx.doi.org/10.3386/w18478) NBER Working Paper no. 18478, 2012.
+Imbens, G., and M. Kolesar. ["Robust Standard Errors in Small Samples: Some Practical Advice." (PDF)](http://dx.doi.org/10.3386/w18478) NBER Working Paper no. 18478, 2012.
 
 Abadie, A., G. Imbens, et al. "[Inference for Misspecified Models with Fixed Regressors](http://dx.doi.org/10.1080/01621459.2014.928218)." _Journal of the American Statistical Association_ 109, no. 508 (2014): 1601–14.
 
@@ -412,7 +412,7 @@ _Introduces a self-tuned Lasso._
 Belloni, A., V. Chernozhukov, et al. "[Pivotal Estimation via Square-root Lasso in Nonparametric Regression](http://dx.doi.org/10.1214/14-AOS1204)." _The Annals of Statistics_ 42, no. 2 (2014): 757–88.  
 _Extends self-tuned Lasso to heteroscedastic, non-Gaussian data._
 
-Manresa, E. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Estimating the Social Structure of Interactions Using Panel Data." (PDF)](http://www.hec.unil.ch/documents/seminars/deep/1281.pdf) MIT Sloan Working Paper, 2013.  
+Manresa, E. ["Estimating the Social Structure of Interactions Using Panel Data." (PDF)](http://www.hec.unil.ch/documents/seminars/deep/1281.pdf) MIT Sloan Working Paper, 2013.  
 _This paper applies modern selection methods in a panel settings to estimate spillover effects across firms._
 
 Brodie, J., Daubechies, I., et al. "[Sparse and Stable Markowitz Portfolios](http://dx.doi.org/10.1073/pnas.0904287106)." _Proceedings of the National Academy of Sciences_ _of the United States of America_ 106, no. 30 (2009): 12267–72.  
@@ -436,7 +436,7 @@ Chernozhukov, V., and C. Hansen. "Econometrics of High-Dimensional Sparse Models
 Belloni, A., V. Chernozhukov, et al. "[High-dimensional Methods and Inference on Structural and Treatment Effects](http://dx.doi.org/10.1257/jep.28.2.29)." _Journal of Economic Perspectives_ 28, no. 2 (2014): 29–50._  
 This is a light expository article focusing on the problem of building valid confidence bands after the model selection._
 
-Belloni, Alexandre, Victor Chernozhukov, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Inference for High-dimensional Sparse Econometric Models](http://arxiv.org/abs/1201.0220)." _Econometric Society World Congress_, 2011, arXiv preprint arXiv:1201.0220.  
+Belloni, Alexandre, Victor Chernozhukov, et al. "[Inference for High-dimensional Sparse Econometric Models](http://arxiv.org/abs/1201.0220)." _Econometric Society World Congress_, 2011, arXiv preprint arXiv:1201.0220.  
 _Treats prediction and provides uniformly valid confidence interval construction in linear models._
 
 Leeb, Hannes, and Benedikt M. Pötscher. "[Model Selection and Inference: Facts and Fiction](http://www.jstor.org/stable/3533623)." _Econometric Theory_ 21, no. 1 (2005): 21–59.  
@@ -453,7 +453,7 @@ _Proposes a "double selection" approach that builds orthogonality with respect t
 Farrell, Max H. "[Robust Inference on Average Treatment Effects with Possibly More Covariates than Observations](http://dx.doi.org/10.2139/ssrn.2324292 )." Chicago Booth Working Paper, 2014._  
 Provides uniformly valid confidence intervals for ATE with multivalued treatments, greatly extending BCH and also relying on orthogonality._
 
-Kozbur, D. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Inference in Additively Separable Models with a High Dimensional Component." (PDF)](https://arxiv.org/abs/1503.05436) Chicago Booth Working Paper, 2014.  
+Kozbur, D. ["Inference in Additively Separable Models with a High Dimensional Component." (PDF)](https://arxiv.org/abs/1503.05436) Chicago Booth Working Paper, 2014.  
 _Considers inference on average derivatives with regression having a high-dimensional nuisance component; inference relies on orthogonality._
 
 Belloni, A., V. Chernozhukov, et al. "[Pivotal Estimation via Square-root Lasso in Nonparametric Regression](http://dx.doi.org/10.1214/14-AOS1204)." _The Annals of Statistics_ 42, no. 2 (2014): 757–88.  
